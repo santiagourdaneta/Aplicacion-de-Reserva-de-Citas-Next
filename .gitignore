@@ -1,0 +1,17 @@
+# Directorios de dependencias y de build
+/node_modules
+/.next
+/out
+
+# Archivos de la cache de npm
+npm-debug.log*
+.npm
+.eslintcache
+
+# Archivos de configuración y de entorno
+.env
+.env.local
+.env.development.local
+.env.production.local
+.next.config.js # Opcional, si no lo quieres versionar
+.next.config.mjs

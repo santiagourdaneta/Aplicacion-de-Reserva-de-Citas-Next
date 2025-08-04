@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^1.0.4",
+    "react-icons": "^5.5.0"
+  }
+}
